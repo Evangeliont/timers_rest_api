@@ -34,7 +34,7 @@ npm run dev
 <http://localhost:3000>
 
 ## Дополнительная информация
-Для более подробной информации посетите [документацию](https://github.com/Evangeliont/express_rest_mongodb#readme) проекта.
+Для более подробной информации посетите [документацию](https://github.com/Evangeliont/timers_rest_api#readme) проекта.
 
 ## Вклад
 Если вы хотите внести свой вклад в проект, пожалуйста, откройте issue или отправьте pull request.
